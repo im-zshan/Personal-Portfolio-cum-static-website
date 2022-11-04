@@ -1,0 +1,20 @@
+#Cheatsheet of to upload this project on GitHub
+
+Step 1. touch .gitignore (This is done to add files that we want to be ignored by GitHub.)
+
+Step 2. git config --global user.name "Zeeshan Chowdhary"
+
+Step 3. git config --global user.email zeeshanchowdhary786@gmail.com
+
+Step 4. git init (In the Project Folder)
+
+Step 5. git commit -m "Initial Commit"
+
+Step 6. git status (Just to see the status)
+
+Step 7. git remote add origin <https:// url.git>
+https://github.com/im-zshan/Personal-Portfolio-cum-static-website.git
+
+Step 8. git push origin master ( To upload the project on GitHub)
+
+And Finally! The project is successfully uploaded in the desired repository of GitHuB.
